@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercício 021.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercício 021.py">
+      <file leaf-file-name="Exercício 022.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercício 022.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -53,6 +53,7 @@
         <option value="$PROJECT_DIR$/Exercício 019.py" />
         <option value="$PROJECT_DIR$/Exercício 020.py" />
         <option value="$PROJECT_DIR$/Exercício 021.py" />
+        <option value="$PROJECT_DIR$/Exercício 022.py" />
       </list>
     </option>
   </component>
@@ -109,24 +110,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercício 021">
-    <configuration name="Exercício 017" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonTestes" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercício 017.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercício 022">
     <configuration name="Exercício 018" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,20 +179,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="Exercício 022" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTestes" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercício 022.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Exercício 017" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Exercício 018" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Exercício 019" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Exercício 020" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Exercício 021" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Exercício 018" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Exercício 019" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Exercício 020" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Exercício 021" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Exercício 022" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Exercício 021" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Exercício 020" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Exercício 019" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Exercício 018" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Exercício 017" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Exercício 022" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Exercício 021" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Exercício 020" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Exercício 019" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Exercício 018" />
       </list>
     </recent_temporary>
   </component>
@@ -411,6 +412,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercício 022.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
           <folding />
         </state>
       </provider>

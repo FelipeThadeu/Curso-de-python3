@@ -10,12 +10,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Exercício 024.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Exercício 024.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercício 024.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercício 025.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercício 025.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="74" lean-forward="false" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -56,10 +66,11 @@
         <option value="$PROJECT_DIR$/Exercício 022.py" />
         <option value="$PROJECT_DIR$/Exercício 023.py" />
         <option value="$PROJECT_DIR$/Exercício 024.py" />
+        <option value="$PROJECT_DIR$/Exercício 025.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1498" />
     <option name="y" value="-13" />
     <option name="width" value="1400" />
@@ -91,8 +102,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -112,24 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercício 024">
-    <configuration name="Exercício 020" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonTestes" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercício 020.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercício 025">
     <configuration name="Exercício 021" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,20 +192,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="Exercício 025" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTestes" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercício 025.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Exercício 020" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Exercício 021" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Exercício 022" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Exercício 023" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Exercício 024" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Exercício 021" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Exercício 022" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Exercício 023" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Exercício 024" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Exercício 025" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Exercício 024" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Exercício 023" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Exercício 022" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Exercício 021" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Exercício 020" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Exercício 025" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Exercício 024" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Exercício 023" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Exercício 022" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Exercício 021" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +240,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1432" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="1432" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25622255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -259,6 +270,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exercício 024.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercício 019.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -393,13 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercício 019.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="63" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercício 020.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -425,6 +437,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="73" lean-forward="false" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercício 019.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="63" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="63" />
           <folding />
         </state>
       </provider>
@@ -433,6 +452,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercício 025.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="74" lean-forward="false" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
           <folding />
         </state>
       </provider>

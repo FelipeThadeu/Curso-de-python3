@@ -11,11 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercício 029.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercício 029.py">
+      <file leaf-file-name="Exercício 030.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercício 030.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+              <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -62,6 +62,7 @@
         <option value="$PROJECT_DIR$/Exercício 028.py" />
         <option value="$PROJECT_DIR$/Aula 11.py" />
         <option value="$PROJECT_DIR$/Exercício 029.py" />
+        <option value="$PROJECT_DIR$/Exercício 030.py" />
       </list>
     </option>
   </component>
@@ -118,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercício 029">
+  <component name="RunManager" selected="Python.Exercício 030">
     <configuration name="Aula 11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,23 +133,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythonTestes" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula 11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Exercício 026" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonTestes" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercício 026.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,20 +188,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="Exercício 030" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonTestes" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercício 030.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Exercício 026" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Exercício 027" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Exercício 028" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Aula 11" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Exercício 029" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Exercício 027" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Exercício 028" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Aula 11" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Exercício 029" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Exercício 030" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Exercício 029" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Aula 11" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Exercício 028" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Exercício 027" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Exercício 026" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Exercício 030" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Exercício 029" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Aula 11" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Exercício 028" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Exercício 027" />
       </list>
     </recent_temporary>
   </component>
@@ -501,6 +502,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercício 030.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
           <folding />
         </state>
       </provider>
